@@ -38,7 +38,7 @@ Authentication: JWT (JSON Web Token)
 ### 📦 Setup Instructions
 ## 1. Backend Setup
 # Clone the repo
-git clone 
+git clone https://github.com/Johhannn/library-aiviz.git
 cd backend
 
 # Create a virtual environment
